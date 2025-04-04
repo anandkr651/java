@@ -3,3 +3,5 @@ class first {
         System.out.println("hello world");
     }
 }
+/*hello world
+PS D:\java\basic>  */
