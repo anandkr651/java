@@ -1,0 +1,16 @@
+in java there are four types of inheritance but in c++ thre are five types of inheritance.
+types of inheritance in java :--
+1.single inheritance
+2.multilevel inheritance
+3.hierarchical inheritance
+4.hybrid inheritance
+
+
+types of inheritance in c++ :--
+1.single inheritance
+2.multilevel inheritance
+3.multiple inheritance   --->"interface in java"
+4.hierarchical inheritance
+5.hybrid inheritance
+
+inplace of multiple inheritance in c++. in java the "interface"
