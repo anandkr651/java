@@ -8,6 +8,7 @@ class ifCheckVowel{
         if(m=='a'|| m=='e'|| m=='i'|| m=='o' || m=='u'||m=='A'|| m=='E'|| m=='I'||m=='O'||m=='U'){
             System.out.println(m +" is a vowel");
         }
+        s.close();
     }
 }
 /* enter the character

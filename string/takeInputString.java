@@ -10,6 +10,7 @@ class takeInputString{
         System.out.println("display the string ");
         System.out.println(s2);
         System.out.println(s1);
+        s.close();
     }
 }
 /*enter the string

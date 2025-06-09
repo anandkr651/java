@@ -17,6 +17,7 @@ class whileDraculs{
         }else{
             System.out.println("this is not a dracula number");
         }
+        s.close();
     }
 }
 /*enter a number 

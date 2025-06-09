@@ -1,15 +1,16 @@
-class bank{
+class bank {
     String Accountname;
     public int AccountNumber;
     protected String AccountType;
     private int password;
 }
-public class encapulationBasic{
-    public static void main(String args[]){
-        bank b1=new bank();
-        b1.Accountname="anand";
-        b1.AccountNumber=235;
-        b1.AccountType="saving";
+
+public class encapulationBasic {
+    public static void main(String args[]) {
+        bank b1 = new bank();
+        b1.Accountname = "anand";
+        b1.AccountNumber = 235;
+        b1.AccountType = "saving";
         // bank.password=3867;
         System.out.println(b1.Accountname);
         System.out.println(b1.AccountNumber);

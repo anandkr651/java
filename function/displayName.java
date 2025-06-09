@@ -9,7 +9,7 @@ public class displayName{
         Scanner s= new Scanner(System.in);
         String name=s.next();
         printMyName(name);
-    }   
+    }
 }
 /*enter your name
 anand kumar

@@ -21,6 +21,7 @@ class greaterNumber{
         x=s.nextInt();
         y=s.nextInt();
         System.out.println(x>y ? x+" is the greater number":y+" is the grteater number");
+        s.close();
     }
 }
 /*enter the two number

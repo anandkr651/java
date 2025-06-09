@@ -14,6 +14,7 @@ class greatestNumberAmong{
             }
         }
         System.out.println(g+" is the greatest number among ten number");
+        s.close();
     }
 }
 /*enter the ten number

@@ -12,5 +12,3 @@ types of inheritance in c++ :--
 3.multiple inheritance   --->"interface in java"
 4.hierarchical inheritance
 5.hybrid inheritance
-
-inplace of multiple inheritance in c++. in java the "interface"

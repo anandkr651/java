@@ -13,6 +13,7 @@ class ifelseTwoNumber{
             z=x%y;
             System.out.println("the modulus of two number is "+z);
         }
+        s.close();
     }
 }
 /*enter the two number

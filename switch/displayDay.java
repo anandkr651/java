@@ -15,6 +15,7 @@ class displayDay{
             case 7:System.out.println("Saturday");break;
             default:System.out.println("Invalid day number");break;
         }
+        s.close();
     }
 }
 /*enter a number to display the day name

@@ -10,6 +10,7 @@ class ifelseCheckVowel{
         }else{
             System.out.println(m +" is a not vowel");
         }
+        s.close();
     }
 }
 /*enter the character

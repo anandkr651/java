@@ -20,6 +20,7 @@ class nestedifGreatestNumber{
                 System.out.println(z+" is the greatest number"); 
             }
         }
+        s.close();
     }
 }
 /*enter the three number

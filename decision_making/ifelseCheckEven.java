@@ -10,6 +10,7 @@ class ifelseCheckEven{
         }else{
               System.out.println(n +" is odd number");
         }
+        s.close();
     }
 }
 /*enter a number

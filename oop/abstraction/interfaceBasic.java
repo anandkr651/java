@@ -1,7 +1,10 @@
 interface Animal{
     public void walk();
-    // Animal()      //err
-    // void eat(){}  //err
+
+    //note --->interface abstract methods cannot have body
+    // public void walk(){
+    //     System.out.println("anima can walk on 4 legs");
+    // }
 }
 interface Herbivour{
 }
